@@ -22,7 +22,8 @@ img.cardbanco{
 }
 .contato{
     margin-left: 150px;
-    width: 50px;
+    max-width: 100%;
+    width: auto;
     height: 50px;
     margin-bottom: 30px;
 }
