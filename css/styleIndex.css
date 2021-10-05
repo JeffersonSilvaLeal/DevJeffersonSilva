@@ -20,8 +20,29 @@ img.cardbanco{
     height: auto;
     opacity: 0.4;
 }
+
+.trabalhos {
+    max-width: 100%;
+    width: 350px;
+    height: 120px;
+}
+
+.textoTrabalhos{
+    text-align: center;
+    position: relative;
+}
+
 .contato{
-    margin-left: 150px;
+    margin-left: 10px;
+    max-width: 100%;
+    width: auto;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.parceiro{
+
+    margin-left: 10px;
     max-width: 100%;
     width: auto;
     height: 50px;
